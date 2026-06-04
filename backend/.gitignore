@@ -1,0 +1,8 @@
+# Binary & database lokal
+/nilai_siswa.db
+*.db
+/bin/
+nilaisiswa
+
+# Env
+.env
